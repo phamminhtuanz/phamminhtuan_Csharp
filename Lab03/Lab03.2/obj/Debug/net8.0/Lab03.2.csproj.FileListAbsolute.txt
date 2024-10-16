@@ -1,0 +1,14 @@
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\bin\Debug\net8.0\Lab03.2.exe
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\bin\Debug\net8.0\Lab03.2.deps.json
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\bin\Debug\net8.0\Lab03.2.runtimeconfig.json
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\bin\Debug\net8.0\Lab03.2.dll
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\bin\Debug\net8.0\Lab03.2.pdb
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.AssemblyInfoInputs.cache
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.AssemblyInfo.cs
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.dll
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\refint\Lab03.2.dll
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.pdb
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\Lab03.2.genruntimeconfig.cache
+C:\Users\Minh Tuan\source\repos\Lab03\Lab03.2\obj\Debug\net8.0\ref\Lab03.2.dll
