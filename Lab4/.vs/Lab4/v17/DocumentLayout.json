@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_ex3\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|solutionrelative:lab4_ex3\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_ex3\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|solutionrelative:lab4_ex3\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_ex3\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B08C37-EED0-4DD3-970A-C0CD5F2DC198}|Lab4_ex3\\Lab4_ex3.csproj|solutionrelative:lab4_ex3\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|solutionrelative:lab4_5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_5\\multipleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|solutionrelative:lab4_5\\multipleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|c:\\users\\minh tuan\\source\\repos\\lab4\\lab4_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A007F-AB78-4945-9796-1F271C3F580A}|Lab4_5\\Lab4_5.csproj|solutionrelative:lab4_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\Program (1).cs",
+              "RelativeDocumentMoniker": "Lab4_ex3\\Program (1).cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\Program (1).cs",
+              "RelativeToolTip": "Lab4_ex3\\Program (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:38:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStoreable.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\IStoreable.cs",
+              "RelativeDocumentMoniker": "Lab4_ex3\\IStoreable.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\IStoreable.cs",
+              "RelativeToolTip": "Lab4_ex3\\IStoreable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:38:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\Document.cs",
+              "RelativeDocumentMoniker": "Lab4_ex3\\Document.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_ex3\\Document.cs",
+              "RelativeToolTip": "Lab4_ex3\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:37:40.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\Car.cs",
+              "RelativeDocumentMoniker": "Lab4_5\\Car.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\Car.cs",
+              "RelativeToolTip": "Lab4_5\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:51:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\Program.cs",
+              "RelativeToolTip": "Lab4_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:50:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultipleInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\MultipleInterface.cs",
+              "RelativeDocumentMoniker": "Lab4_5\\MultipleInterface.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab4\\Lab4_5\\MultipleInterface.cs",
+              "RelativeToolTip": "Lab4_5\\MultipleInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:50:57.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
