@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AE6886-B9ED-4FFD-BB79-BBCF6C8A42C6}|Lab08_ex1\\Lab08_ex1.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AE6886-B9ED-4FFD-BB79-BBCF6C8A42C6}|Lab08_ex1\\Lab08_ex1.csproj|solutionrelative:lab08_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AE6886-B9ED-4FFD-BB79-BBCF6C8A42C6}|Lab08_ex1\\Lab08_ex1.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_ex1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AE6886-B9ED-4FFD-BB79-BBCF6C8A42C6}|Lab08_ex1\\Lab08_ex1.csproj|solutionrelative:lab08_ex1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE7962-155B-45C5-8964-F1E1EE8C2387}|Lab08_3\\Lab08_3.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE7962-155B-45C5-8964-F1E1EE8C2387}|Lab08_3\\Lab08_3.csproj|solutionrelative:lab08_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE7962-155B-45C5-8964-F1E1EE8C2387}|Lab08_3\\Lab08_3.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE7962-155B-45C5-8964-F1E1EE8C2387}|Lab08_3\\Lab08_3.csproj|solutionrelative:lab08_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|solutionrelative:lab08_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|solutionrelative:lab08_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF3C5C-7187-4D76-9828-AFB02F5A638E}|Lab08_2\\Lab08_2.csproj|solutionrelative:lab08_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E4548F-0367-4AFE-9C84-295A77DB5D23}|Lab08\\Lab08.csproj|c:\\users\\minh tuan\\source\\repos\\lab08\\lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E4548F-0367-4AFE-9C84-295A77DB5D23}|Lab08\\Lab08.csproj|solutionrelative:lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_ex1\\Book.cs",
+              "RelativeDocumentMoniker": "Lab08_ex1\\Book.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_ex1\\Book.cs",
+              "RelativeToolTip": "Lab08_ex1\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:32:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_ex1\\Program.cs",
+              "RelativeToolTip": "Lab08_ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:22:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_3\\Film.cs",
+              "RelativeDocumentMoniker": "Lab08_3\\Film.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_3\\Film.cs",
+              "RelativeToolTip": "Lab08_3\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:20:53.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_3\\Program.cs",
+              "RelativeToolTip": "Lab08_3\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:20:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Order.cs",
+              "RelativeDocumentMoniker": "Lab08_2\\Order.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Order.cs",
+              "RelativeToolTip": "Lab08_2\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:18:51.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab08_2\\Customer.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Customer.cs",
+              "RelativeToolTip": "Lab08_2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:18:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08_2\\Program.cs",
+              "RelativeToolTip": "Lab08_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:17:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tuan\\source\\repos\\Lab08\\Lab08\\Program.cs",
+              "RelativeToolTip": "Lab08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:57:25.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

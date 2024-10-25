@@ -1,0 +1,14 @@
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\bin\Debug\net8.0\Lab08_ex1.exe
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\bin\Debug\net8.0\Lab08_ex1.deps.json
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\bin\Debug\net8.0\Lab08_ex1.runtimeconfig.json
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\bin\Debug\net8.0\Lab08_ex1.dll
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\bin\Debug\net8.0\Lab08_ex1.pdb
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.AssemblyInfoInputs.cache
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.AssemblyInfo.cs
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.dll
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\refint\Lab08_ex1.dll
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.pdb
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\Lab08_ex1.genruntimeconfig.cache
+C:\Users\Minh Tuan\source\repos\Lab08\Lab08_ex1\obj\Debug\net8.0\ref\Lab08_ex1.dll
